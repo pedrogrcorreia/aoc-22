@@ -1,2 +1,2 @@
-# aoc-22
-Advent of Code 2022
+# Advent of Code 2022
+## Solutions to the AOC22 in Kotlin
