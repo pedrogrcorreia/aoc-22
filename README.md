@@ -2,3 +2,4 @@
 ## Solutions to the AOC22 in Kotlin
 
   - [Day 1](https://github.com/pedrogrcorreia/aoc-22/tree/main/src/main/kotlin/day1 "Solution to Day 1 of AOC")
+  - [Day 2](https://github.com/pedrogrcorreia/aoc-22/tree/main/src/main/kotlin/day2 "Solution to Day 2 of AOC")
