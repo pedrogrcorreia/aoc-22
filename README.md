@@ -10,3 +10,4 @@
   - [Day 7](https://github.com/pedrogrcorreia/aoc-22/tree/main/src/main/kotlin/day7 "Solution to Day 7 of AOC")
   - [Day 8](https://github.com/pedrogrcorreia/aoc-22/tree/main/src/main/kotlin/day8 "Solution to Day 8 of AOC")
   - [Day 9](https://github.com/pedrogrcorreia/aoc-22/tree/main/src/main/kotlin/day9 "Solution to Day 9 of AOC")
+  - [Day 10](https://github.com/pedrogrcorreia/aoc-22/tree/main/src/main/kotlin/day10 "Solution to Day 10 of AOC")
